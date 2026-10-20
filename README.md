@@ -26,6 +26,7 @@ Password-Generator/
 │── index.html
 │── style.css
 │── script.js
+│──pg.png
 └── README.md
 ```
 
